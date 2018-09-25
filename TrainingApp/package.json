@@ -3,7 +3,7 @@
 	"private": true,
 	"version": "0.0.0",
 	"scripts": {
-		"start": "webpack --config webpack.config.vendor.js"
+		"start": "webpack.config.js"
 	},
 	"devDependencies": {
 		"@types/history": "4.6.0",
