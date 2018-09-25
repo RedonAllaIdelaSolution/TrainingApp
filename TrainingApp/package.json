@@ -3,7 +3,7 @@
 	"private": true,
 	"version": "0.0.0",
 	"scripts": {
-		"start": "TrainingApp/webpack.config.js"
+		"start": "webpack.config.js"
 	},
 	"devDependencies": {
 		"@types/history": "4.6.0",
