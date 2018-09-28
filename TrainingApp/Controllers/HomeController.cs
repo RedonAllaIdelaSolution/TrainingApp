@@ -11,7 +11,8 @@ namespace TrainingApp.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+			ViewBag.Message = "Your application description page.";
+			return View();
         }
 
         public IActionResult Error()
